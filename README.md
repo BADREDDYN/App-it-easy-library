@@ -15,7 +15,7 @@
 
   ```gradle
 	dependencies {
-	        implementation 'com.github.BADREDDYN:App-it-easy-library:Tag'
+	        implementation 'com.github.BADREDDYN:App-it-easy-library:1.0.0'
 	}
   ```
   
